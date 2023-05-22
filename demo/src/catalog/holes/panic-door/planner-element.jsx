@@ -33,6 +33,7 @@ function makePanicDoor(handleSide) {
   else {
     leftDoorPivot.position.set(-0.595 / 2, 0, -0.06 / 2);
   }
+  
   rightDoorPivot.position.set(0.6/2 ,0,0.077/2);
   safetyHandleLeft.position.set(0,0.4,0.06/2);
   safetyHandleRight.position.set(0,0.4,-0.062/2);
